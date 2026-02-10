@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://betamo.partnersplayamo.net/sitemap.xml
